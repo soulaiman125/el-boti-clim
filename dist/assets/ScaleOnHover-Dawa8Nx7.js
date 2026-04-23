@@ -1,0 +1,1 @@
+import{R as t,m as n}from"./framer-motion-DKs70YRD.js";const a=({children:e})=>t.createElement(n.div,{whileHover:{y:-6,transition:{type:"spring",stiffness:400,damping:17}},style:{willChange:"transform"}},e);export{a as S};

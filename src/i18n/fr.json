@@ -1,0 +1,262 @@
+{
+  "navbar": {
+    "about": "À propos",
+    "services": "Services",
+    "projects": "Projets",
+    "testimonials": "Avis",
+    "contact": "Contact",
+    "requestService": "Demander un service",
+    "brandTagline": "Services CVC premium à Tanger, Maroc",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "menuAria": "Menu du site",
+    "themeLabelLight": "Clair",
+    "themeLabelDark": "Sombre",
+    "themeAria": "Passer en mode {{mode}}",
+    "languageLabel": "Langue",
+    "language": {
+      "en": "EN",
+      "fr": "FR",
+      "ar": "AR"
+    }
+  },
+  "common": {
+    "skipToContent": "Aller au contenu",
+    "featuredProject": "Projet en vedette",
+    "backToTop": "Retour en haut",
+    "loadingContent": "Chargement du contenu..."
+  },
+  "hero": {
+    "eyebrow": "Le confort pensé pour chaque saison",
+    "titleParts": [
+      { "text": "Des solutions ", "accent": false },
+      { "text": "CVC", "accent": true },
+      { "text": " équilibrées ", "accent": true },
+      { "text": "pour l'habitat, le commerce et les espaces professionnels.", "accent": false }
+    ],
+    "rotatingLines": [
+      "Installation rapide.",
+      "Assistance 24/7.",
+      "Performance énergétique."
+    ],
+    "primaryCta": "Demander un service",
+    "secondaryCta": "Découvrir les services",
+    "stats": {
+      "experienceLabel": "Années d'expertise",
+      "supportLabel": "Assistance d'urgence",
+      "recommendationLabel": "Orientation client"
+    },
+    "visualAlt": "Technicien CVC installant et entretenant un système de climatisation",
+    "location": "Tanger, Maroc",
+    "scroll": "Défiler"
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "title": "À propos de EL BOTI CLIM",
+    "teamLabel": "Notre équipe professionnelle",
+    "imageAlt": "Techniciens CVC de EL BOTI CLIM posant sous une climatisation nouvellement installée",
+    "description": "EL BOTI CLIM SARL AU fournit des solutions CVC fiables avec une forte exigence sur la qualité d'installation, la performance des systèmes et la réactivité du service pour les clients résidentiels et professionnels à Tanger.",
+    "panelLabel": "Exécution maîtrisée",
+    "panelText": "Qualité d'installation, rigueur de maintenance et fiabilité durable des systèmes.",
+    "highlights": [
+      "Techniciens CVC certifiés avec plus de 10 ans d'expérience",
+      "Installation professionnelle de systèmes split, centraux et VRF",
+      "Contrats de maintenance préventive pour maisons et entreprises",
+      "Intervention à Tanger, Tétouan et dans le nord du Maroc",
+      "Intervention d'urgence sous 2 heures"
+    ]
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Des capacités CVC orientées exécution pour chaque environnement.",
+    "description": "Des nouvelles installations aux interventions urgentes, nous couvrons les services CVC essentiels avec une exécution propre et fiable.",
+    "featured": {
+      "title": "CVC commercial",
+      "description": "Systèmes climatiques commerciaux complets incluant conseil, installation, mise en service et suivi pour bureaux, commerces et sites multi-zones."
+    },
+    "items": [
+      {
+        "title": "Installation de climatisation",
+        "description": "Mise en place précise de systèmes split et centraux avec une finition soignée."
+      },
+      {
+        "title": "Maintenance",
+        "description": "Contrôles planifiés et entretien approfondi pour préserver l'efficacité toute l'année."
+      },
+      {
+        "title": "Chauffage",
+        "description": "Configuration fiable de solutions de chauffage intérieur pour l'habitat et les espaces professionnels."
+      },
+      {
+        "title": "Ventilation",
+        "description": "Plans de circulation d'air équilibrés pour améliorer le confort intérieur et la qualité de l'air."
+      },
+      {
+        "title": "Réparation d'urgence",
+        "description": "Intervention rapide 24/7 en cas de panne de refroidissement ou de chauffage."
+      },
+      {
+        "title": "Mise à niveau des systèmes",
+        "description": "Modernisation et amélioration des performances pour les installations HVAC existantes."
+      }
+    ]
+  },
+  "whyChoose": {
+    "eyebrow": "Pourquoi nous choisir",
+    "title": "Pourquoi choisir EL BOTI CLIM ?",
+    "description": "Qualité d'exécution, support réactif et résultats durables au service de la performance.",
+    "features": [
+      {
+        "title": "Systèmes économes en énergie",
+        "description": "Des équipements modernes optimisés pour réduire la consommation."
+      },
+      {
+        "title": "Temps de réponse rapide",
+        "description": "Déploiement rapide et assistance d'urgence 24/7."
+      },
+      {
+        "title": "Techniciens certifiés",
+        "description": "Des spécialistes agréés avec de solides standards d'exécution."
+      },
+      {
+        "title": "Solutions sur mesure",
+        "description": "Des recommandations adaptées au profil de chaque site."
+      },
+      {
+        "title": "Installations soignées",
+        "description": "Une pose précise, discrète et propre jusque dans les finitions."
+      },
+      {
+        "title": "Fiabilité à long terme",
+        "description": "Des protocoles durables pour garantir une performance stable."
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Nos projets",
+    "title": "Nos installations récentes",
+    "description": "Découvrez quelques-uns de nos récents projets d'installation CVC et climatisation réalisés à Tanger.",
+    "nextProject": "Projet suivant",
+    "previousProject": "Projet précédent",
+    "viewAll": "Voir tous les projets",
+    "showcase": [
+      {
+        "title": "Système de chauffage",
+        "description": "Installation résidentielle moderne optimisée pour le confort et la performance énergétique.",
+        "location": "Tanger"
+      },
+      {
+        "title": "Système de régulation climatique domestique",
+        "description": "Installation professionnelle d'un climatiseur mural.",
+        "location": "Tanger"
+      },
+      {
+        "title": "Système CVC de plafond pour bureau",
+        "description": "Système CVC au plafond installé pour le confort climatique d'un espace de travail.",
+        "location": "Tanger"
+      },
+      {
+        "title": "Installation CVC commerciale",
+        "description": "Installation d'équipements CVC extérieurs haute capacité pour bâtiments commerciaux.",
+        "location": "Tanger"
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Avis clients",
+    "title": "Choisi par des clients qui attendent un service CVC rapide et fiable.",
+    "description": "Une entreprise de service crédible doit aussi inspirer confiance dans son interface. Cette section utilise donc des profils, une typographie et des animations plus aboutis.",
+    "items": [
+      {
+        "quote": "Équipe professionnelle, installation soignée et excellente performance du système dès le premier jour.",
+        "name": "Amina B.",
+        "role": "Cliente résidentielle",
+        "avatarAlt": "Portrait client d'Amina B."
+      },
+      {
+        "quote": "Ils ont réagi rapidement à notre panne de refroidissement et l'ont résolue sans interrompre l'activité.",
+        "name": "Karim L.",
+        "role": "Responsable de magasin",
+        "avatarAlt": "Portrait client de Karim L."
+      },
+      {
+        "quote": "Maintenance fiable, conseils techniques clairs et une expérience de service très professionnelle.",
+        "name": "Youssef H.",
+        "role": "Administrateur de bureau",
+        "avatarAlt": "Portrait client de Youssef H."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Réponses utiles",
+    "title": "Questions fréquentes",
+    "description": "Des réponses claires et pratiques aux questions posées avant une installation, une intervention ou un suivi à long terme.",
+    "items": [
+      {
+        "question": "Proposez-vous des services de maintenance ?",
+        "answer": "Oui, nous proposons des plans de maintenance programmée et à la demande pour tous les types de systèmes, y compris split, centralisés et CVC commerciaux."
+      },
+      {
+        "question": "Offrez-vous des réparations d'urgence ?",
+        "answer": "Oui, notre équipe est disponible 24/7 pour les pannes urgentes avec diagnostic rapide et intervention immédiate lorsque cela est possible."
+      },
+      {
+        "question": "Les systèmes HVAC peuvent-ils réduire la consommation d'énergie ?",
+        "answer": "Les systèmes inverter modernes peuvent réduire la consommation jusqu'à 40 % lorsqu'ils sont bien dimensionnés et correctement entretenus."
+      },
+      {
+        "question": "Travaillez-vous pour les clients résidentiels et professionnels ?",
+        "answer": "Oui, nous intervenons pour les maisons, bureaux, commerces, restaurants et bâtiments commerciaux multi-zones à Tanger et dans les environs."
+      },
+      {
+        "question": "Combien de temps dure une installation classique ?",
+        "answer": "La plupart des installations résidentielles standard sont réalisées en une journée, tandis que les projets commerciaux plus importants sont planifiés par phases."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Demandez une intervention CVC premium à Tanger.",
+    "description": "Contactez notre équipe pour l'installation, la maintenance, les interventions d'urgence et la planification d'infrastructures climatiques commerciales.",
+    "phone": "Téléphone",
+    "email": "Email",
+    "address": "Adresse",
+    "whatsApp": "WhatsApp",
+    "chatOnWhatsApp": "Discuter avec EL BOTI CLIM",
+    "city": "Tanger, Maroc",
+    "form": {
+      "title": "Demande de projet",
+      "fullName": "Nom complet",
+      "phone": "Numéro de téléphone",
+      "serviceType": "Type de service",
+      "message": "Message",
+      "submit": "Envoyer via WhatsApp",
+      "payloadGreeting": "Bonjour EL BOTI CLIM SARL AU,",
+      "serviceOptions": [
+        "Installation de climatisation",
+        "Maintenance",
+        "Chauffage",
+        "Ventilation",
+        "Réparation d'urgence",
+        "CVC commercial"
+      ],
+      "errors": {
+        "fullName": "Le nom complet est obligatoire.",
+        "phone": "Entrez un numéro de téléphone valide.",
+        "message": "Veuillez décrire votre demande."
+      }
+    }
+  },
+  "footer": {
+    "description": "Exécution CVC premium pour maisons, bureaux et espaces commerciaux à Tanger, Maroc.",
+    "quickLinks": "Liens rapides",
+    "social": "Réseaux sociaux",
+    "badge": "Exécution CVC premium",
+    "copyright": "© 2026 EL BOTI CLIM SARL AU. Tous droits réservés."
+  },
+  "floatingWhatsApp": {
+    "aria": "Discuter avec EL BOTI CLIM sur WhatsApp",
+    "title": "WhatsApp",
+    "subtitle": "Réponse rapide"
+  }
+}

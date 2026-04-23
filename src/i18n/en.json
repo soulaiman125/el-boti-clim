@@ -1,0 +1,320 @@
+{
+  "navbar": {
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "requestService": "Request Service",
+    "brandTagline": "Premium HVAC services in Tangier, Morocco",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "menuAria": "Site menu",
+    "themeLabelLight": "Light",
+    "themeLabelDark": "Dark",
+    "themeAria": "Switch to {{mode}} mode",
+    "languageLabel": "Language",
+    "language": {
+      "en": "EN",
+      "fr": "FR",
+      "ar": "AR"
+    }
+  },
+  "common": {
+    "skipToContent": "Skip to content",
+    "featuredProject": "Featured project",
+    "backToTop": "Back to top",
+    "loadingContent": "Loading content..."
+  },
+  "hero": {
+    "eyebrow": "Comfort engineered for every season",
+    "titleParts": [
+      { "text": "Balanced ", "accent": false },
+      { "text": "HVAC", "accent": true },
+      { "text": " solutions ", "accent": true },
+      { "text": "for homes, retail, and commercial spaces.", "accent": false }
+    ],
+    "rotatingLines": [
+      "Fast installation.",
+      "24/7 support.",
+      "Energy efficient."
+    ],
+    "primaryCta": "Request Service",
+    "secondaryCta": "Explore Services",
+    "stats": {
+      "experienceLabel": "Years of expertise",
+      "supportLabel": "Emergency support",
+      "recommendationLabel": "Client focus"
+    },
+    "visualAlt": "HVAC technician installing and servicing an air conditioning system",
+    "location": "Tangier, Morocco",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "About EL BOTI CLIM",
+    "teamLabel": "Our professional team",
+    "imageAlt": "EL BOTI CLIM HVAC technicians standing below a completed air conditioning installation",
+    "description": "EL BOTI CLIM SARL AU delivers dependable HVAC solutions with a strong focus on installation quality, system performance, and responsive service for residential and commercial clients in Tangier.",
+    "secondaryText": "Our work combines technical discipline with practical field experience, which means clients get systems that are correctly sized, carefully installed, and easier to maintain over time.",
+    "panelLabel": "Execution-led",
+    "panelText": "Installation quality, maintenance discipline, and long-term system reliability.",
+    "mediaBadge": "Field-ready support",
+    "mediaText": "Residential and commercial HVAC work delivered with clean finishing, disciplined execution, and responsive after-service support.",
+    "proofItems": [
+      {
+        "value": "10+",
+        "label": "Years in the field"
+      },
+      {
+        "value": "2h",
+        "label": "Emergency response target"
+      },
+      {
+        "value": "North",
+        "label": "Coverage across northern Morocco"
+      }
+    ],
+    "highlights": [
+      "Certified HVAC technicians with 10+ years experience",
+      "Professional installation of split, central & VRF systems",
+      "Preventive maintenance contracts for homes & businesses",
+      "Serving Tangier, Tetouan, and northern Morocco",
+      "Emergency intervention within 2 hours"
+    ]
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Execution-first HVAC capabilities for every environment.",
+    "description": "From new installations to urgent intervention, we cover the core HVAC services clients need with clean, dependable execution.",
+    "secondaryText": "Every service is structured around site reality: equipment fit, airflow balance, neat routing, maintenance readiness, and reliable support after handover.",
+    "proofItems": [
+      {
+        "value": "Split",
+        "label": "Residential and light commercial systems"
+      },
+      {
+        "value": "24/7",
+        "label": "Urgent breakdown support"
+      },
+      {
+        "value": "Clean",
+        "label": "Professional finishing standards"
+      }
+    ],
+    "featured": {
+      "title": "Commercial HVAC",
+      "description": "End-to-end commercial climate systems including design advisory, installation, commissioning, and ongoing service for offices, retail, and multi-zone facilities.",
+      "points": [
+        "System planning adapted to occupancy, layout, and usage rhythm.",
+        "Clean installation workflow with organized routing and commissioning.",
+        "Service continuity through maintenance and rapid troubleshooting."
+      ]
+    },
+    "items": [
+      {
+        "title": "AC Installation",
+        "description": "Precision setup for split and central systems with clean finishing."
+      },
+      {
+        "title": "Maintenance",
+        "description": "Scheduled checks and deep system care to preserve efficiency year-round."
+      },
+      {
+        "title": "Heating",
+        "description": "Reliable indoor heating configuration for homes and commercial interiors."
+      },
+      {
+        "title": "Ventilation",
+        "description": "Balanced airflow plans that improve indoor comfort and air quality."
+      },
+      {
+        "title": "Emergency Repair",
+        "description": "24/7 rapid intervention when cooling or heating systems fail."
+      },
+      {
+        "title": "System Upgrades",
+        "description": "Retrofit and performance upgrades for legacy HVAC installations."
+      }
+    ]
+  },
+  "whyChoose": {
+    "eyebrow": "Why choose us",
+    "title": "Why Choose EL BOTI CLIM?",
+    "description": "Execution quality, responsive support, and system outcomes built for long-term performance.",
+    "introLabel": "Operational confidence",
+    "introTitle": "A field team built for clean delivery, fast intervention, and durable system performance.",
+    "secondaryText": "We do not just install equipment. We plan airflow, respect site conditions, finish cleanly, and stay available when clients need maintenance, diagnostics, or urgent intervention.",
+    "visualBadge": "Trusted execution",
+    "visualAlt": "EL BOTI CLIM technician working on a commercial HVAC installation",
+    "highlightTitle": "What clients expect from us",
+    "highlightText": "Clear recommendations, disciplined installation, and reliable follow-up once the system is operating on site.",
+    "proofItems": [
+      {
+        "value": "24/7",
+        "label": "Availability for urgent HVAC intervention when a system stops working."
+      },
+      {
+        "value": "Clean",
+        "label": "Installation standards focused on neat finishing, discreet routing, and site respect."
+      },
+      {
+        "value": "Tailored",
+        "label": "Recommendations adapted to the property profile, usage rhythm, and comfort goals."
+      }
+    ],
+    "features": [
+      {
+        "title": "Energy Efficient Systems",
+        "description": "Modern inverter-ready systems tuned for lower consumption."
+      },
+      {
+        "title": "Fast Response Time",
+        "description": "Rapid dispatch and 24/7 emergency HVAC support."
+      },
+      {
+        "title": "Certified Technicians",
+        "description": "Licensed specialists with strong field execution standards."
+      },
+      {
+        "title": "Tailored Solutions",
+        "description": "System recommendations adapted to each property profile."
+      },
+      {
+        "title": "Clean Installations",
+        "description": "Discreet, precise installation with tidy finishes."
+      },
+      {
+        "title": "Long-term Reliability",
+        "description": "Durable setup and maintenance protocols for consistent performance."
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Our projects",
+    "title": "Our Recent Installations",
+    "description": "Explore some of our recent HVAC and air conditioning installation projects completed in Tangier.",
+    "nextProject": "Next project",
+    "previousProject": "Previous project",
+    "viewAll": "View All Projects",
+    "showcase": [
+      {
+        "title": "Heating System",
+        "description": "Modern residential heating setup optimized for comfort and energy performance.",
+        "location": "Tangier"
+      },
+      {
+        "title": "Home Climate Control System",
+        "description": "Professional wall-mounted air conditioning installation.",
+        "location": "Tangier"
+      },
+      {
+        "title": "Office HVAC Ceiling System",
+        "description": "Ceiling HVAC system installed for office climate control.",
+        "location": "Tangier"
+      },
+      {
+        "title": "Commercial HVAC Installation",
+        "description": "Installation of high-capacity outdoor HVAC systems for commercial buildings.",
+        "location": "Tangier"
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "Trusted by clients who expect fast, dependable HVAC service.",
+    "description": "Strong service businesses need credibility in the interface too, so this section now uses more polished profiles, typography, and motion instead of plain text blocks.",
+    "items": [
+      {
+        "quote": "Professional team, clean installation, and excellent system performance from day one.",
+        "name": "Amina B.",
+        "role": "Residential client",
+        "avatarAlt": "Amina B. client portrait"
+      },
+      {
+        "quote": "They responded quickly to our cooling issue and solved it without interrupting operations.",
+        "name": "Karim L.",
+        "role": "Store manager",
+        "avatarAlt": "Karim L. client portrait"
+      },
+      {
+        "quote": "Reliable maintenance support, clear technical advice, and a very professional service experience.",
+        "name": "Youssef H.",
+        "role": "Office administrator",
+        "avatarAlt": "Youssef H. client portrait"
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Support answers",
+    "title": "Frequently Asked Questions",
+    "description": "Clear and practical answers to the questions clients ask before installation, service, and long-term support.",
+    "items": [
+      {
+        "question": "Do you provide maintenance services?",
+        "answer": "Yes, we offer scheduled and on-demand maintenance plans for all system types, including split, central, and commercial HVAC systems."
+      },
+      {
+        "question": "Do you offer emergency repair services?",
+        "answer": "Yes, our team is available 24/7 for urgent breakdowns with rapid diagnostics and immediate intervention when possible."
+      },
+      {
+        "question": "Can HVAC systems reduce energy consumption?",
+        "answer": "Modern inverter systems can reduce energy usage by up to 40% when sized correctly and maintained consistently."
+      },
+      {
+        "question": "Do you work with residential and commercial clients?",
+        "answer": "Yes, we serve homes, offices, retail spaces, restaurants, and multi-zone commercial buildings across Tangier and nearby areas."
+      },
+      {
+        "question": "How long does a typical installation take?",
+        "answer": "Most standard residential installations are completed in one day, while larger commercial projects are scheduled in phases with clear timelines."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Request premium HVAC execution in Tangier.",
+    "description": "Reach our team for installations, maintenance, emergency intervention, and commercial climate infrastructure planning.",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "whatsApp": "WhatsApp",
+    "chatOnWhatsApp": "Chat with EL BOTI CLIM",
+    "city": "Tangier, Morocco",
+    "form": {
+      "title": "Project Request",
+      "fullName": "Full Name",
+      "phone": "Phone Number",
+      "serviceType": "Service Type",
+      "message": "Message",
+      "submit": "Send via WhatsApp",
+      "payloadGreeting": "Hello EL BOTI CLIM SARL AU,",
+      "serviceOptions": [
+        "AC Installation",
+        "Maintenance",
+        "Heating",
+        "Ventilation",
+        "Emergency Repair",
+        "Commercial HVAC"
+      ],
+      "errors": {
+        "fullName": "Full Name is required.",
+        "phone": "Enter a valid phone number.",
+        "message": "Please describe your request."
+      }
+    }
+  },
+  "footer": {
+    "description": "Premium HVAC execution for homes, offices, and commercial spaces in Tangier, Morocco.",
+    "quickLinks": "Quick Links",
+    "social": "Social",
+    "badge": "Premium HVAC Execution",
+    "copyright": "© 2026 EL BOTI CLIM SARL AU. All rights reserved."
+  },
+  "floatingWhatsApp": {
+    "aria": "Chat with EL BOTI CLIM on WhatsApp",
+    "title": "WhatsApp",
+    "subtitle": "Quick response"
+  }
+}
